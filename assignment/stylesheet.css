@@ -3,3 +3,13 @@ header {
     text-align: center;
     color: lightgray
 }
+
+main {
+    background-color: lightgray;
+    padding: 1em;
+}
+
+body {
+    background-image: url("file:///Users/natkoch/Downloads/record.png");
+    margin: 0;
+}
